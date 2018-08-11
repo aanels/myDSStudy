@@ -1,2 +1,2 @@
 # myDSStudy
-My DataScience Study
+My DataScience Study course GA
